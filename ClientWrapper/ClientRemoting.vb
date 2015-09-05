@@ -3,7 +3,6 @@ Imports System.Runtime.Remoting.Channels
 Imports dotNetSimulatorUtilities
 Imports System.Threading
 
-
 Public Class ClientRemoting
     Inherits ClientRequest
 
